@@ -1,4 +1,5 @@
 michael-tutorial
 ================
 
-Learnign about git...
+Learning about git...
+
